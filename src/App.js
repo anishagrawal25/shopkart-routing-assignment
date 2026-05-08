@@ -5,7 +5,7 @@ import { BrowserRouter,Routes,Route } from "react-router-dom";
 // TODO: Import About
 // TODO: Import Contact
 // TODO: Import React Router
-import About from "./pages/About/";
+import About from "./pages/About";
 import Contact from "./pages/Contact";
 function App() {
   return (
